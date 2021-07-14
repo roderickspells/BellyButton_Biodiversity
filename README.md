@@ -4,7 +4,7 @@ Data Analysis to build an interactive dashboard exploring the Belly Button Biodi
 
 
 ### Software 
-VS Code /
+VS Code \
 Javascript /
 CSS /
 HTML
